@@ -5,7 +5,7 @@
   "name": "HitDelayFix",
   "description": "Eliminates attack cooldown for rapid attacks",
   "authors": [
-    "lykiaofficial"
+    "example"
   ],
   "contact": {},
   "license": "MIT",
@@ -13,7 +13,7 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "com.lykia.hitdelfix.HitDelayFixMod"
+      "com.example.hitdelfix.HitDelayFixMod"
     ]
   },
   "mixins": [],
